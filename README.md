@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🌻
 
-Meu nome é Debora Eleteia Stainski Melchior Paio
+Meu nome é **Debora Eleteia Stainski Melchior Paio**
 
 - Estudo e oriento estudantes da [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
